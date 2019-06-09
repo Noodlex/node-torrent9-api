@@ -1,5 +1,5 @@
 {
-  "name": "node-torrent9-api",
+  "name": "@noodlex/node-torrent9-api",
   "version": "1.0.0",
   "description": "Search torrent on website torrent9",
   "main": "index.js",
@@ -19,5 +19,10 @@
   "dependencies": {
     "cloudscraper": "^4.1.2",
     "node-html-parser": "^1.1.15"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noodlex/node-torrent9-api.git"
   }
 }
