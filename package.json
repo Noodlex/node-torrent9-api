@@ -1,0 +1,23 @@
+{
+  "name": "node-torrent9-api",
+  "version": "1.0.0",
+  "description": "Search torrent on website torrent9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "torrent9-api",
+    "torrent9"
+  ],
+  "author": "Noodlex",
+  "license": "ISC",
+  "homepage": "https://github.com/Noodlex/node-torrent9-api",
+  "bugs": {
+    "url": "https://github.com/Noodlex/node-torrent9-api/issues"
+  },
+  "dependencies": {
+    "cloudscraper": "^4.1.2",
+    "node-html-parser": "^1.1.15"
+  }
+}
